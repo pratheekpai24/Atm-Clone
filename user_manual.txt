@@ -1,0 +1,2 @@
+the initial pin for your atm card is - "2023" and its changable in output
+any modifications/improvements are really appreciated
